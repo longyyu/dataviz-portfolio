@@ -3,9 +3,10 @@ title: "Animated heatmap"
 author: "Yanyu Long"
 date: "Mar 21, 2021"
 output: 
-  html_document:
+  md_document:
     toc: true
     toc_depth: 3
+always_allow_html: true
 ---
 
 ```{r setup, include=FALSE}
@@ -25,7 +26,6 @@ format_table = function(table, ...) {
 ```
 
 ```{r}
-# import libraries
 library(tidyverse)
 ```
 
