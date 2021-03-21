@@ -17,5 +17,5 @@ My data visualization portfolio
 
 * [Tutorial](https://github.com/longyyu/dataviz-portfolio/tree/main/animated-heatmap)
 
-<img src="./animated_heatmap/STC.gif" width="80%" style="display: block; margin: auto;" />
+<img src="./animated-heatmap/STC.gif" width="80%" style="display: block; margin: auto;" />
 
