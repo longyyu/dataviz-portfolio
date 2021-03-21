@@ -6,7 +6,6 @@
 -   [Step 4: Link the separate frames and make a
     GIF!](#step-4-link-the-separate-frames-and-make-a-gif)
 
-    # import libraries
     library(tidyverse)
 
 ## Step 1: Prepare the world map data
