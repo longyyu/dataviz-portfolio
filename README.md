@@ -1,5 +1,5 @@
-# dataviz-portfolio
-My data visualization portfolio  
+# Data visualization portfolio  
+
 
 ---
 
