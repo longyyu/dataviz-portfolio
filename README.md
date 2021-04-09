@@ -20,3 +20,9 @@
 
 <img src="./animated-heatmap/STC.gif" width="80%" style="display: block; margin: auto;" />
 
+---
+
+## Data visualization of COVID-19 data using R, STATA, Python, and MATLAB
+
+* Tutorial [preview](https://raw.githack.com/SkyWang0919/STATS-506-Midterm-Project-02/main/Group%202%20Tutorial%20Draft.html), [repository](https://github.com/SkyWang0919/STATS-506-Midterm-Project-02)  
+
