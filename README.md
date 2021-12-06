@@ -26,7 +26,7 @@
 
 * Tutorial [preview](https://raw.githack.com/SkyWang0919/STATS-506-Midterm-Project-02/main/Group%202%20Tutorial%20Draft.html), [repository](https://github.com/SkyWang0919/STATS-506-Midterm-Project-02)  
 
-| | |
-| :---: | :---: |
-| <img style="height:220px" src="./covidviz/scatter.png"> | <img style="height:220px" src="./covidviz/bubble.png"> |
+<img style="height:220px" src="./covidviz/scatter.png">
+
+<img style="height:220px" src="./covidviz/bubble.png">
 
