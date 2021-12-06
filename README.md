@@ -5,7 +5,6 @@
 
 ## Using Graphviz to automatically create companies' ownership structure diagrams  
 
-* We will be using `Graphviz` the software and `graphviz` the Python package
 * [Tutorial](https://github.com/longyyu/dataviz-portfolio/tree/main/Graphviz)  
 
 <img src="./Graphviz/股权结构图.svg" style="height:220px">
