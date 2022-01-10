@@ -29,3 +29,9 @@
 
 <img style="height:420px" src="./covidviz/bubble.png">
 
+---
+
+## Exploratory data analysis (EDA) with R sample work
+
+* [EDA Report in HTML](https://raw.githack.com/longyyu/noaa-storm-events/master/data/data_preprocessing.html) | [RMD](https://github.com/longyyu/noaa-storm-events/blob/master/data/data_preprocessing.Rmd)
+
