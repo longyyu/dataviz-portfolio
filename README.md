@@ -11,6 +11,10 @@ While we do have options to generate PE plots without having to look into any ni
 
 <img src="https://longyyu.github.io/static/img/project-house-prices.png" alt="" style="height:400px">
 
+Once we know understand what a partial effect plot is and how to generate the underlying data, we can generalize this idea to other algorithms than GAM, and make the plots in other scripting langauges than R. Below are the PE plots for a random forest model that predicts wine quality based on physicochemical properties of wines plotted with matplotlib. Read more about this project [here](https://longyyu.github.io/static/project-wine-quality.html).
+
+<img src="partial-effect-plot/pe_rf_matplotlib.png" alt="" style="height:570px">
+
 ---
 
 ## Using Graphviz to automatically create companies' ownership structure diagrams  
